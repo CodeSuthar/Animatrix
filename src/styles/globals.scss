@@ -11,7 +11,7 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --ascent-color: gold;
+    --ascent-color: #2196f3;
     --bg-color: rgb(27, 25, 25);
     --bg-gradient: rgba(49, 47, 47, 0.8);
     --primary-1: black;
@@ -23,7 +23,7 @@
 }
 @media (prefers-color-scheme: light) {
   :root {
-    --ascent-color: gold;
+    --ascent-color: #2196f3;
     --bg-color: #f4f7fe;
     --bg-gradient: rgba(238, 235, 235, 0.8);
     --primary-1: rgb(255, 255, 255);
