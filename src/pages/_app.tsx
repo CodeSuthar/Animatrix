@@ -36,7 +36,7 @@ export default function App({ Component, pageProps }: any) {
     <>
       <Head>
         <title>TennysonStream</title>
-        <meta name="description" content="A movie & TV show streaming platform for free with no ads with speeds like XLR8." />
+        <meta name="description" content="A movie & TV show streaming platform for free with speeds like XLR8." />
         <meta
           name="keywords"
           content="movie, streaming, tv, rive, stream. movie app, tv shows, movie download"

@@ -10,7 +10,7 @@ const Disclaimer = () => {
           data-tooltip-id="tooltip"
           data-tooltip-content="TennysonStream"
         />
-        <p>A movie & TV show streaming platform for free with no ads with speeds like XLR8.</p>
+        <p>A movie & TV show streaming platform for free with speeds like XLR8.</p>
       </div>
       <div className={styles.settings}>
         <h1>Disclaimer</h1>
