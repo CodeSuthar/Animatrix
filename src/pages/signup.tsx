@@ -22,7 +22,7 @@ const SignupPage = () => {
           src="/images/logo.svg"
           alt="logo"
           data-tooltip-id="tooltip"
-          data-tooltip-content="Rive"
+          data-tooltip-content="Tennyson"
         />
         <p>Your Personal Streaming Oasis</p>
       </div>
