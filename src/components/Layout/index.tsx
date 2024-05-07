@@ -13,7 +13,7 @@ import { fetchRandom } from "@/Utils/randomdata";
 const Layout = ({ children }: any) => {
   const [theme, setTheme] = useState("system");
   const [mode, setMode] = useState("liquidate");
-  const [ascent_color, setAscent_color] = useState("gold");
+  const [ascent_color, setAscent_color] = useState("#2196f3");
   const [themeColor, setThemeColor] = useState<any>();
   const { push } = useRouter();
 
